@@ -1,5 +1,5 @@
 自动化业务：用户输入文字后交给AI模型识别后调用selenium技术搜索并解析联系信息，然后自动化发送邮件
-\n一，项目只上传了代码，需要自行下载并放到项目根目录的如下：
+一，项目只上传了代码，需要自行下载并放到项目根目录的如下：
 （1）下载chrome和chromedriver：
 https://googlechromelabs.github.io/chrome-for-testing/
 （2）下载开源模型，可以在HuggingFace网站找符合自己设备配置的语言模型，例如：
